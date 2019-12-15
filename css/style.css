@@ -1,0 +1,268 @@
+div {}
+
+img {
+  background-color: #cbf1f5;
+}
+
+h1 {
+  margin: 0px;
+  margin-left: 0px;
+
+}
+
+h2 {
+  padding-left: 50px;
+  color: #3d84a8;
+}
+
+h3{
+  color: #3d84a8;
+}
+p{
+  line-height: 2;
+}
+.p2{
+  margin: auto;
+  padding-bottom: 100px;
+  color: #11999e;
+
+}
+.p4{
+  margin: auto;
+  padding-bottom: 100px;
+  color: #11999e;
+  width: 50%;
+}
+
+body {
+  margin: 0px;
+  background-color: #cbf1f5;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.button1 {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border-radius: 8px;
+  font-family: 'Noto Sans KR', sans-serif;
+  color:#32407b;
+  font-size: 20px;
+  padding: 14px 40px;
+  background-color: #008CBA;
+  border-style: none;
+}
+.button1:hover{
+  background-color: #cbf1f5;
+}
+.footer-link{
+ padding: 20px;
+}
+.cloud-bottom {
+  position: absolute;
+  left: 450px;
+  bottom: 400px;
+}
+
+.cloud-top {
+  position: absolute;
+  top: 70px;
+  right: 500px;
+}
+.contact-me{
+  padding: 30px;
+}
+
+.Heading {}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+
+  border-style: dotted none none;
+   height: 60px;
+   border-width:5px;
+   width: 5%;
+   color: #515585;
+
+  text-align: center;
+}
+
+.mountain-middle {
+  height: 450px;
+  width: 600px;
+}
+
+.top-container {
+  background-color:
+  margin: 0px;
+  padding-top: 200px;
+  position: relative;
+}
+
+.middle-container {
+  background-color:
+  position: relative;
+  margin: 0px;
+}
+.Education{
+  padding-top: 20px;
+  background-color:
+
+}
+
+.bottom-container {
+  background-color:#112d4e;
+  padding-top: 50px;
+  margin: 0px;
+}
+.book1{
+  background-color:
+  height:25px;
+  width:25px;
+
+
+}
+.book2{
+  background-color:
+  height:25px;
+  width:25px;
+}
+.screw{
+  height:25px;
+  width:25px;
+    background-color:
+}
+
+
+.name {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+    color: #66BFBF;
+}
+
+.Profile {
+  border-radius: 70%;
+}
+.Profile:hover{
+
+  transform: scale(1.5);
+}
+.profile {
+  margin: 0px;
+  padding-top: 20px;
+}
+
+.pcb {
+  border-radius: 50%;
+  float: right;
+  margin-left:  30px;
+}
+.Work-Experiance{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+
+}
+.workshop{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.bsnl{
+  height: 100px;
+  width: 100px;
+  float: right;
+  margin-left:  30px;
+}
+.lema{
+  height: 100px;
+  width: 100px;
+  float: left;
+  border-radius: 50%;
+  margin-right:  30px;
+}
+.VIT{
+  height: 100px;
+  width: 100px;
+  float: right;
+  border-radius: 50%;
+  margin-left::  30px;
+}
+
+.p1 {
+  font-size: 2.16rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+.p3{
+  color: #dbe2ef;
+}
+.web {
+  height: 200px;
+  width: 200px;
+  border-radius: 70%;
+  float: left;
+  margin-right: 30px;
+}
+.arduino{
+  height: 200px;
+  width: 200px;
+  border-radius: 70%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skills {
+  background-color:
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 0px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.linkedin-logo{
+  background-color:#112d4e;
+  height:25px;
+  width:25px;
+
+}
+.twitter{
+background-color:#112d4e;
+  height:25px;
+  width:25px;
+}
+.insta{
+background-color:#112d4e;
+  height:25px;
+  width:25px;
+}
+
+/* NAVBAR */
+.navbar{
+  padding-top: 20px;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+.navbar{
+  padding: 0 0 4.5rem;
+}
+.navbar-brand{
+  font-size:2.5rem;
+}
+.nav-item{
+  padding: 10px;
+}
+.nav-link{
+ font-family: 'Montserrat', sans-serif;
+ font-size: 1.3rem;
+}
